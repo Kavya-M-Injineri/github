@@ -10,3 +10,4 @@ and the pipeline goes like this
 ## Package
 
 and it is done in two types
+1) through github actions
