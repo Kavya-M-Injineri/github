@@ -11,3 +11,7 @@ and the pipeline goes like this
 
 and it is done in two types
 1) through github actions
+2) jenkins
+
+in github we'll go to actions to do it
+in jenkins we use yaml lang(yet another markup language)
