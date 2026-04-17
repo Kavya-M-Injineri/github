@@ -15,3 +15,4 @@ and it is done in two types
 
 in github we'll go to actions to do it
 in jenkins we use yaml lang(yet another markup language)
+and for java we use maven and everything in groovy script
