@@ -1,11 +1,12 @@
-Heyyy!!
-its my first time looking forward for an interaction
-heyy hows my first devops cls
-im starting with git btw
-oops its github
-hhiiiiiiii
-hlo
-ummmmahhhh
-tyyyyyyyy
-hiii
-bbbbbbbbbbbbbbbbbbb
+So CI-CD 
+Continuous integration and Continuous deployment
+and the pipeline goes like this
+
+## Checkout
+## Activate
+## Build
+## Test
+## Deploy
+## Package
+
+and it is done in two types
