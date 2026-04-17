@@ -2,6 +2,8 @@
 
 And i started with basic github comments like:
 
+
+
 ## git init
 ## git add .
 ## or git add filename
@@ -12,6 +14,8 @@ And i started with basic github comments like:
 ## git status
 
 and then the old info is all about the local env and now we'll talk about remote env i.e github
+
+
 
 first we'll start with creating a new repo
 and from local env we'll we push the files to repo using the above listed comments
